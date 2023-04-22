@@ -1,2 +1,2 @@
-# lispython
+# Lispython
 Lisp interpreter written in Python
